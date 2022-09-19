@@ -95,7 +95,7 @@ if __name__ == '__main__':
     #       > '(old_)results/Log_YYYY-MM-DD_HH-MM-SS': Directly provide the path of a trained model
 
     #chosen_log = 'results/Log_2022-07-08_15-24-10'  # => ModelNet40
-    chosen_log = '/home/ubuntu/data/models/firstrun/checkpoints/best_miou_chkp.tar'  # => ModelNet40
+    chosen_log = '/home/ubuntu/data/models/firstrun'  # => ModelNet40
 
     # Choose the index of the checkpoint to load OR None if you want to load the best checkpoint
     chkp_idx = None
