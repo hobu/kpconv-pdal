@@ -185,8 +185,8 @@ class LASConfig(Config):
     saving_path = None
 
     # Dataset folder
-    path = '/home/chambbj/data/ahn4'
-    writer = SummaryWriter('/home/chambbj/data/tensorboard-runs/new/kpconv-ahn4-00')
+    path = '/home/ubuntu/data/ahn4'
+    writer = SummaryWriter('/home/ubuntu/data/tensorboard-runs/new/kpconv-ahn4-00')
 
 
 # ----------------------------------------------------------------------------------------------------------------------
